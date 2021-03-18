@@ -1,0 +1,35 @@
+h1 {
+  color: slategray;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+}
+
+h2 {
+  color:goldenrod;
+  text-align: center;
+}
+
+nav {
+  text-align: right;
+  border: 1px solid #000;
+  padding: 10px;
+  margin: 50px 10px 0 0;
+  width: 50%;
+  float: right;
+  color: #fff;
+}
+
+h3 {
+  text-align: center;
+  color: teal;
+}
+
+p {
+  color: black;
+
+}
+
+a:link { color: rgb(72, 84, 150) } 
+a:visited {color: pink } 
+a:hover {color: blue } 
+a:active {color: orange } 
